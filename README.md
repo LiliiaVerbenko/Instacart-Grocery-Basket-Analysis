@@ -1,6 +1,6 @@
 # **Instacart-Grocery-Basket-Analysis**
 
-## ***Welcome to the Instacart Grocery Basket Analysis project!***
+### ***Welcome to the Instacart Grocery Basket Analysis project!***
 
 ![Instacart Logo](Instacart-Logo.png)
 
