@@ -1,11 +1,12 @@
 # **Instacart-Grocery-Basket-Analysis**
 
-***Welcome to the Instacart Grocery Basket Analysis project!***
+## ***Welcome to the Instacart Grocery Basket Analysis project!***
+
+![Instacart Logo](Instacart-Logo.png)
+
 
 *This project involves performing data analysis and exploration for Instacart, an online grocery store. 
 Here in this analysis we are focusing on customer behavior and product-related insights, aiming to understand the sales patterns and implement targeted marketing strategies to support sales efforts.*
-
-![Instacart Logo](Instacart-Logo.png)
 
 ## Key Questions and Objectives:
 - Identifying the busiest days and hours for scheduling ads.
