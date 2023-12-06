@@ -23,5 +23,4 @@ Here in this analysis we are focusing on customer behavior and product-related i
 - Departments	
 
 ## Folders:
-- **Project Management**: Contains the Project Brief
 - Data: Instacart Grocery Basket Analysis
